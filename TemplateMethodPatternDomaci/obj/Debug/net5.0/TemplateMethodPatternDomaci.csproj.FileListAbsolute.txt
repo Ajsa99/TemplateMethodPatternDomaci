@@ -1,0 +1,16 @@
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\bin\Debug\net5.0\TemplateMethodPatternDomaci.exe
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\bin\Debug\net5.0\TemplateMethodPatternDomaci.deps.json
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\bin\Debug\net5.0\TemplateMethodPatternDomaci.runtimeconfig.json
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\bin\Debug\net5.0\TemplateMethodPatternDomaci.runtimeconfig.dev.json
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\bin\Debug\net5.0\TemplateMethodPatternDomaci.dll
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\bin\Debug\net5.0\ref\TemplateMethodPatternDomaci.dll
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\bin\Debug\net5.0\TemplateMethodPatternDomaci.pdb
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\obj\Debug\net5.0\TemplateMethodPatternDomaci.csprojAssemblyReference.cache
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\obj\Debug\net5.0\TemplateMethodPatternDomaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\obj\Debug\net5.0\TemplateMethodPatternDomaci.AssemblyInfoInputs.cache
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\obj\Debug\net5.0\TemplateMethodPatternDomaci.AssemblyInfo.cs
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\obj\Debug\net5.0\TemplateMethodPatternDomaci.csproj.CoreCompileInputs.cache
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\obj\Debug\net5.0\TemplateMethodPatternDomaci.dll
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\obj\Debug\net5.0\ref\TemplateMethodPatternDomaci.dll
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\obj\Debug\net5.0\TemplateMethodPatternDomaci.pdb
+C:\Users\Ajsa\Desktop\TemplateMethodPatternDomaci\TemplateMethodPatternDomaci\obj\Debug\net5.0\TemplateMethodPatternDomaci.genruntimeconfig.cache
